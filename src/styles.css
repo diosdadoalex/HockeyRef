@@ -1,0 +1,7 @@
+.bg-lightgrey{
+    background-color: lightslategrey;
+}
+
+.right-aligned{
+    justify-content: flex-end;
+}
