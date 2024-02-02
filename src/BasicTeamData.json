@@ -5,7 +5,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/1736/thumbs/173616512014.gif",
         "HomeArena": "Honda Center",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/ducks/"
+        "Website": "https://www.nhl.com/ducks/",
+        "Captain": "N/A"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/5263/thumbs/526382732022.gif",
         "HomeArena": "Mullet Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/coyotes/"
+        "Website": "https://www.nhl.com/coyotes/",
+        "Captain": "N/A"
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/3/thumbs/335922024.gif",
         "HomeArena": "TD Garden",
         "FinalsWins": 6,
-        "Website": "https://www.nhl.com/bruins/"
+        "Website": "https://www.nhl.com/bruins/",
+        "Captain": "Brad Marchand"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/4/thumbs/454932021.gif",
         "HomeArena": "Keybank Center",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/sabres/"
+        "Website": "https://www.nhl.com/sabres/",
+        "Captain": "Kyle Okposo"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/5/thumbs/548202021.gif",
         "HomeArena": "Scotiabank Sattledome",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/flames/"
+        "Website": "https://www.nhl.com/flames/",
+        "Captain": "Mikael Backlund"
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/6/thumbs/fotih31tn5r345nufo5xxayh3.gif",
         "HomeArena": "PNC Arena",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/hurricanes/"
+        "Website": "https://www.nhl.com/hurricanes/",
+        "Captain": "Jordan Staal"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/7/thumbs/56.gif",
         "HomeArena": "United Center",
         "FinalsWins": 6,
-        "Website": "https://www.nhl.com/blackhawks/"
+        "Website": "https://www.nhl.com/blackhawks/",
+        "Captain": "N/A"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/8/thumbs/64.gif",
         "HomeArena": "Ball Arena",
         "FinalsWins": 3,
-        "Website": "https://www.nhl.com/avalanche/"
+        "Website": "https://www.nhl.com/avalanche/",
+        "Captain": "Gabriel Landeskog"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/9/thumbs/jhepegs329pc7ugyypebl28wg.gif",
         "HomeArena": "Nationwide Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/bluejackets/"
+        "Website": "https://www.nhl.com/bluejackets/",
+        "Captain": "Boone Jenner"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/10/thumbs/1043322022.gif",
         "HomeArena": "American Airlines Center",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/stars/"
+        "Website": "https://www.nhl.com/stars/",
+        "Captain": "Jaime Benn"
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/11/thumbs/yo3wysbjtagzmwj37tb11u0fh.gif",
         "HomeArena": "Little Ceasers Arena",
         "FinalsWins": 11,
-        "Website": "https://www.nhl.com/redwings/"
+        "Website": "https://www.nhl.com/redwings/",
+        "Captain": "Dylan Larkin"
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/12/thumbs/1229852023.gif",
         "HomeArena": "Rogers Place",
         "FinalsWins": 5,
-        "Website": "https://www.nhl.com/oilers/"
+        "Website": "https://www.nhl.com/oilers/",
+        "Captain": "Conner McDavid"
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/13/thumbs/1380782017.gif",
         "HomeArena": "Amerant Bank Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/panthers/"
+        "Website": "https://www.nhl.com/panthers/",
+        "Captain": "Aleksander Barkov"
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/14/thumbs/1422202020.gif",
         "HomeArena": "Crypto.com Arena",
         "FinalsWins": 2,
-        "Website": "https://www.nhl.com/kings/"
+        "Website": "https://www.nhl.com/kings/",
+        "Captain": "Anze Kopitar"
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/15/thumbs/1588102014.gif",
         "HomeArena": "Xcel Energy Center",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/wild/"
+        "Website": "https://www.nhl.com/wild/",
+        "Captain": "Jared Spurgeon"
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/16/thumbs/124.gif",
         "HomeArena": "Bell Centre",
         "FinalsWins": 24,
-        "Website": "https://www.nhl.com/canadians/"
+        "Website": "https://www.nhl.com/canadians/",
+        "Captain": "Nick Suzuki"
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/17/thumbs/lvchw3qfsun2e7oc02kh2zxb6.gif",
         "HomeArena": "Bridgestone Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/predators/"
+        "Website": "https://www.nhl.com/predators/",
+        "Captain": "Roman Josi"
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/18/thumbs/32tfs723a3bes0p0hb4hgcy1u.gif",
         "HomeArena": "Prudential Center",
         "FinalsWins": 3,
-        "Website": "https://www.nhl.com/devils/"
+        "Website": "https://www.nhl.com/devils/",
+        "Captain": "Nico Hishier"
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/19/thumbs/1939112018.gif",
         "HomeArena": "UBS Arena",
         "FinalsWins": 4,
-        "Website": "https://www.nhl.com/islanders/"
+        "Website": "https://www.nhl.com/islanders/",
+        "Captain": "Anders Lee"
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/20/thumbs/144.gif",
         "HomeArena": "Madison Square Garden",
         "FinalsWins": 4,
-        "Website": "https://www.nhl.com/rangers/"
+        "Website": "https://www.nhl.com/rangers/",
+        "Captain": "Jacob Trouba"
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/21/thumbs/2111292021.gif",
         "HomeArena": "Canadien Tire Center",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/senators/"
+        "Website": "https://www.nhl.com/senators/",
+        "Captain": "Brady Tkachuk"
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/22/thumbs/2231452024.gif",
         "HomeArena": "Wells Fargo Center",
         "FinalsWins": 2,
-        "Website": "https://www.nhl.com/flyers/"
+        "Website": "https://www.nhl.com/flyers/",
+        "Captain": "N/A"
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/24/thumbs/2463622017.gif",
         "HomeArena": "PPG Paints Arena",
         "FinalsWins": 5,
-        "Website": "https://www.nhl.com/penguins/"
+        "Website": "https://www.nhl.com/penguins/",
+        "Captain": "Sidney Crosby"
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/26/thumbs/dmo1xf3z4pph27vmg3gf.gif",
         "HomeArena": "SAP Center",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/sharks/"
+        "Website": "https://www.nhl.com/sharks/",
+        "Captain": "Logan Couture"
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/6740/thumbs/674079522022.gif",
         "HomeArena": "Climate Pledge Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/kraken/"
+        "Website": "https://www.nhl.com/kraken/",
+        "Captain": "N/A"
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/25/thumbs/187.gif",
         "HomeArena": "Enterprise Center",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/blues/"
+        "Website": "https://www.nhl.com/blues/",
+        "Captain": "Brayden Schenn"
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/27/thumbs/97hhvk8e5if0riesnex30etgz.gif",
         "HomeArena": "Amaile Arena",
         "FinalsWins": 3,
-        "Website": "https://www.nhl.com/lightning/"
+        "Website": "https://www.nhl.com/lightning/",
+        "Captain": "Steven Stamkos"
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/28/thumbs/2887612017.gif",
         "HomeArena": "Scotiabank Arena",
         "FinalsWins": 16,
-        "Website": "https://www.nhl.com/mapleleafs/"
+        "Website": "https://www.nhl.com/mapleleafs/",
+        "Captain": "John Tavares"
     },
     {
         "id": 29,
@@ -229,15 +257,17 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/29/thumbs/2920842020.gif",
         "HomeArena": "Rogers Arena",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/canucks/"
+        "Website": "https://www.nhl.com/canucks/",
+        "Captain": "Quinn Hughes"
     },
     {
         "id": 30,
         "Name": "Vegas Golden Knights",
         "LogoLink": "https://content.sportslogos.net/logos/1/6114/thumbs/611426842018.gif",
-        "HomeArena": "Tmobile Arena",
+        "HomeArena": "T-Mobile Arena",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/goldenknights/"
+        "Website": "https://www.nhl.com/goldenknights/",
+        "Captain": "Mark Stone"
     },
     {
         "id": 31,
@@ -245,7 +275,8 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/30/thumbs/llrs2zxi127vkqgcsvfb.gif",
         "HomeArena": "Capital One Center",
         "FinalsWins": 1,
-        "Website": "https://www.nhl.com/capitals/"
+        "Website": "https://www.nhl.com/capitals/",
+        "Captain": "Alexander Ovechkin"
     },
     {
         "id": 32,
@@ -253,6 +284,7 @@
         "LogoLink": "https://content.sportslogos.net/logos/1/3050/thumbs/z9qyy9xqoxfjn0njxgzoy2rwk.gif",
         "HomeArena": "Canada Life Centre",
         "FinalsWins": 0,
-        "Website": "https://www.nhl.com/jets/"
+        "Website": "https://www.nhl.com/jets/",
+        "Captain": "Adam Lowry"
     }
 ]

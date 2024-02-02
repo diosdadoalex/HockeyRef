@@ -22,6 +22,7 @@ function TeamGridView() {
                 <Dropdown.ItemText>
                   Home Arena: {data.HomeArena}
                 </Dropdown.ItemText>
+                <Dropdown.ItemText>Captain: {data.Captain}</Dropdown.ItemText>
                 <Dropdown.ItemText>
                   Finals Wins: {data.FinalsWins}
                 </Dropdown.ItemText>
