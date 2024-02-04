@@ -5,3 +5,11 @@
 .right-aligned{
     justify-content: flex-end;
 }
+
+.center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin: auto;
+}
